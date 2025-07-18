@@ -1,2 +1,4 @@
 .env
 /myenv312
+/__pychache__
+*.pyc
