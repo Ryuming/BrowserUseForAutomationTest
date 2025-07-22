@@ -21,4 +21,4 @@ Step 5: Back to your project root folder and run demo.py
       cd ..\..\
       python demo.py
   - For MacOS:
-      Rich people please fill this field, i'm not using any MacOS device
+      ========
