@@ -1,0 +1,3 @@
+prompt_name,prompt_text
+contact_us_button,"Step: 
+f'1. Open browser, from current tab, navigate to {variable_collection["targetURL"].input_value} .\n' </br>'2. Click into {{{contact_us_button}}}  to open Contact Us site. \n' </br> '3. Get the redirected url and try to append with "https://filum.ai/book-demo". If true test case is pass else test case is fail\n'"
